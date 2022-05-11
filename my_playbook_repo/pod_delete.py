@@ -1,3 +1,6 @@
+from robusta.api import *
+import time
+
 @action
 def delete_pod(event: PrometheusKubernetesAlert):
 if not event.get_pod():
