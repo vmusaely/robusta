@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "my_extra_playbooks"
+name = "robusta_chaos"
 version = "0.0.1"
 description = ""
 authors = ["Natan Yellin <aantn@users.noreply.github.com>"]
