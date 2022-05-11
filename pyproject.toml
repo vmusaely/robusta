@@ -1,13 +1,11 @@
 [tool.poetry]
-name = "my_playbook_repo"
+name = "my_extra_playbooks"
 version = "0.0.1"
 description = ""
-authors = ["USER NAME <musaelyanvlad@gmail.com>"]
+authors = ["Natan Yellin <aantn@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
-some-dependency = "^1.2.3"
-
-[tool.poetry.dev-dependencies]
+python = "^3.7.1"
 robusta-cli = "^0.8.9"
 
 [build-system]
